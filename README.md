@@ -25,4 +25,4 @@ HTML, CSS, JavaScript
 ANSI escape codes for text formatting
 
 📌 Live Demo
-Host this project on GitHub Pages or your preferred hosting service.
+https://discordcodegen.netlify.app/
