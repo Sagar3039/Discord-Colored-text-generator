@@ -25,4 +25,4 @@ HTML, CSS, JavaScript
 ANSI escape codes for text formatting
 
 📌 Live Demo
-https://discordcodegen.netlify.app/
+https://discord-colored-text-generator-seven.vercel.app/
